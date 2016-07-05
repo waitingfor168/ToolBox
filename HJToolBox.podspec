@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "HJToolBox"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "Xcode toolbox for iOS"
 
   # This description is used to generate tags and improve search results.
@@ -136,8 +136,8 @@ Pod::Spec.new do |s|
 
   # ――― cmd custom ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #  pod spec create HJToolBox
-  #  set the new version to 0.0.1
-  #  set the new tag to 0.0.1
+  #  set the new version to 1.0.0
+  #  set the new tag to 1.0.0
   #  pod lib lint
 
 end
